@@ -17,13 +17,13 @@ Analisar suas vendas e segmentar a sua base de clientes usando a metodologia RFM
 - Planilhas Google (Google Sheets);
 - Apresentações Google (Google Slides).
 
-  # Processamento e análises
+# Processamento e análises
 
-  Toda a documentação relacionada a exploração dos dados pode ser encontrada no tópico "processamento_e_analise" disponível nos arquivos do projeto.
+Toda a documentação relacionada a exploração dos dados pode ser encontrada no tópico "processamento_e_analise" disponível nos arquivos do projeto.
 
-  # Resultados
+# Resultados
 
-  Após a análise RFM, os clientes foram segmentados em 5 grupos. Abaixo seus agrupamentos e recomendações sugeridas:
+Após a análise RFM, os clientes foram segmentados em 5 grupos. Abaixo seus agrupamentos e recomendações sugeridas:
 
 - Melhores Clientes - **Ação recomendada:** Benefícios exclusivos, programas de fidelidade ou recompensas.
 - Clientes Leais - **Ação recomendada:** Ofertas que incentivem uma nova compra a fim de aumentar o engajamento com a empresa.
