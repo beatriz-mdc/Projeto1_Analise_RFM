@@ -19,7 +19,7 @@ Analisar suas vendas e segmentar a sua base de clientes usando a metodologia RFM
 
 # Processamento e análises
 
-Toda a documentação relacionada a exploração dos dados pode ser encontrada no tópico "processamento_e_analise" disponível nos arquivos do projeto.
+Toda a documentação relacionada a exploração dos dados pode ser encontrada no tópico [processamento_e_analise](https://github.com/beatriz-mdc/Projeto1_Segmentacao/blob/main/processamento_e_analise.md) disponível nos arquivos do projeto.
 
 # Resultados
 
